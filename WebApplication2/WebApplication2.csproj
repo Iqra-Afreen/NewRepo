@@ -187,7 +187,7 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Code\DAL\DBManager.cs" />
+    <Compile Include="App_Code\DAL\DBManager.cs" />
     <Compile Include="App_Code\DAL\EncryptionAndDeccryption.cs" />
     <Compile Include="App_Code\DAL\UserProfileDB.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
