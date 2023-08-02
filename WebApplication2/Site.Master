@@ -123,7 +123,7 @@
                     </div>
                 </div>
             </div>
-            <asp:ContentPlaceHolder ID="EMS" runat="server">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
 
         </div>
